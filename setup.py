@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="fartlib",
-    version="2.0.0",
+    version="2.0.1",
     author="Adonis",
     description="the official fartlib package",
     long_description=open("README.md").read(),

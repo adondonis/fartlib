@@ -5,13 +5,13 @@ the most sophisticated fart simulation library you ~~never~~ knew you needed.
 ## Installation
 
 ```bash
-pip install advanced-fart-simulator
+pip install fartlib
 ```
 
 ## Quick Example
 
 ```python
-from fart_simulator import Fart, FartMachine, Smell, FartType
+from fartlib import Fart, FartMachine, Smell, FartType
 
 # Simple fart
 fart = Fart(smell=Smell.PUTRID, fart_type=FartType.THUNDER)
